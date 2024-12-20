@@ -1,75 +1,34 @@
-# Repositorio base del Curso de Introducción a React.js en Platzi
+To Do List 📝 | ¡Proyecto en Construcción!
+🚧 En proceso de desarrollo
+¡Bienvenida al proyecto "To Do List"! 🎉 Este es un proyecto en el que he estado trabajando para gestionar tareas de manera eficiente y sencilla. Actualmente, se encuentra en construcción, y estoy agregando nuevas funcionalidades para mejorar la experiencia de usuario.
 
-¡Hola, Platzinauta!
+¿Qué hace esta aplicación?
+Este proyecto tiene como objetivo permitirte gestionar y organizar tus tareas diarias. A través de una interfaz limpia y fácil de usar, puedes agregar, marcar como completadas y eliminar tareas de tu lista. ¡Es la herramienta perfecta para mantenerte enfocada y productiva! 🚀
 
-En este repositorio encontrarás el código de todas las clases del [Curso de Introducción a React.js](https://platzi.com/reactjs). Para empezar solo debes clonar este repositorio (`git clone`), instalar sus dependencias (`npm i`) y ejecutar la aplicación (`npm start`).
+🔧 Características actuales
+Agregar tareas: Añade rápidamente tus pendientes. ✅
+Marcar tareas como completadas: ¡Siente la satisfacción de tachar una tarea! ✔️
+Eliminar tareas: Mantén tu lista limpia y organizada. 🗑️
+🔜 Próximas funcionalidades
+Este proyecto está en constante mejora. Algunas de las próximas funcionalidades incluyen:
 
-La rama principal contiene el código con el que eempezamos el curso. En las demás ramas encontrarás el código de las siguientes clases y finalmente el deploy de la aplicación.
+Priorizar tareas: Organiza tus pendientes según su importancia. ⏳
+Categorizar tareas: Mantén tus tareas agrupadas por categorías. 🗂️
+Sincronización en la nube: Accede a tus tareas desde cualquier dispositivo. ☁️
+Notificaciones y recordatorios: Nunca más olvides una tarea importante. 🔔
+🚀 ¿Cómo empezar?
+Clona este repositorio: git clone <URL>
+Instala las dependencias: npm install
+Ejecuta la aplicación: npm start
+¡Y listo! Ahora puedes empezar a gestionar tus tareas. 🎯
 
-¡Mucha suerte aprendiendo React! #NuncaParesDeAprender
+👩‍💻 ¿Cómo contribuir?
+¡Este proyecto está abierto a contribuciones! Si tienes sugerencias, mejoras o encuentras algún error, no dudes en abrir un pull request o crear un issue. Siempre estoy buscando maneras de mejorar el proyecto. 🤝
 
-## Getting Started with Create React App
+💡 ¿Por qué este proyecto?
+Este proyecto me ha permitido poner en práctica mis habilidades de desarrollo web mientras aprendo nuevas tecnologías. Cada nueva funcionalidad que agrego me brinda la oportunidad de mejorar mi capacidad para resolver problemas y optimizar la experiencia del usuario.
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Este proyecto refleja mi enfoque en la organización, el desarrollo de interfaces limpias y la mejora continua, habilidades que considero esenciales en cualquier entorno de trabajo de desarrollo.
 
-## Available Scripts
-
-In the project directory, you can run:
-
-### `npm start`
-
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
-
-### `npm run build`
-
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
-
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
-
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
-
-### `npm run eject`
-
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
-
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
-
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
-
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+¡Gracias por visitar este proyecto! 🚀
+Espero que te guste y encuentres útil el código. Si tienes alguna pregunta, ¡no dudes en ponerte en contacto! 😊
